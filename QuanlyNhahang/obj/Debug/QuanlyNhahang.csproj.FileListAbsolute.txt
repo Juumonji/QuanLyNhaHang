@@ -1,0 +1,12 @@
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe.config
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.pdb
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csprojResolveAssemblyReference.cache
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fLogin.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.Properties.Resources.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csproj.GenerateResource.Cache
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.exe
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.pdb
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fTableManager.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fAccountProfile.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fAdmin.resources
